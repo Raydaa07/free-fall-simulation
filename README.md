@@ -4,7 +4,7 @@ This project simulates free fall motion under gravity using python.
 - Models motion using physics equations
 - Uses NumPy and Matplotlib
 - Estimates gravitational acceleration (g)
-- Error less than 5%
+- Error less than 6%
 ## Tools Used
 - Python
 - NumPy
